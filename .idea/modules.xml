@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Music_Player.iml" filepath="$PROJECT_DIR$/.idea/modules/Music_Player.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Music_Player.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Music_Player.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Music_Player.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Music_Player.app.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Music_Player.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Music_Player.app.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Music_Player.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Music_Player.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Vibe_Now.iml" filepath="$PROJECT_DIR$/.idea/modules/Vibe_Now.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Vibe_Now.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Vibe_Now.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Vibe_Now.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Vibe_Now.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Vibe_Now.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Vibe_Now.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Vibe_Now.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Vibe_Now.app.unitTest.iml" />
     </modules>
   </component>
 </project>
